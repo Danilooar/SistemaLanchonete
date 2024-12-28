@@ -1,4 +1,4 @@
->h1>Sistema de Lanchonete em C#</h1>
+<h1>Sistema de Lanchonete em C#</h1>
 
 <p>Este é um projeto simples de sistema para uma lanchonete, desenvolvido em C#. O objetivo é permitir que o cliente escolha o lanche desejado e a quantidade, e o sistema calcula automaticamente o valor total com base no preço do lanche escolhido.</p>
 
