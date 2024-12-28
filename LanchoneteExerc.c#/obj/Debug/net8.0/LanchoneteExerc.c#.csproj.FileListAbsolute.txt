@@ -1,0 +1,14 @@
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\bin\Debug\net8.0\LanchoneteExerc.c#.exe
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\bin\Debug\net8.0\LanchoneteExerc.c#.deps.json
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\bin\Debug\net8.0\LanchoneteExerc.c#.runtimeconfig.json
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\bin\Debug\net8.0\LanchoneteExerc.c#.dll
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\bin\Debug\net8.0\LanchoneteExerc.c#.pdb
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\LanchoneteExerc.c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\LanchoneteExerc.c#.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\LanchoneteExerc.c#.AssemblyInfo.cs
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\LanchoneteExerc.c#.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\LanchoneteExerc.c#.dll
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\refint\LanchoneteExerc.c#.dll
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\LanchoneteExerc.c#.pdb
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\LanchoneteExerc.c#.genruntimeconfig.cache
+C:\Users\erick\source\repos\LanchoneteExerc.c#\LanchoneteExerc.c#\obj\Debug\net8.0\ref\LanchoneteExerc.c#.dll
